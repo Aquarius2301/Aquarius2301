@@ -14,12 +14,15 @@
 ### 🎓 Graduation Project  
 **VEMS - Vicompose Education Management System**  
 🔧 Tech stack: `C#`, `React`  
-📄 Description: A comprehensive education management system that helps students and lecturers manage study progress, grades, and notifications effectively.
+📄 Description: A comprehensive education management system that helps students and teachers manage study progress, grades, and attendance effectively.  
+🔗 [GitHub Repo Backend](https://github.com/khanhnnIT/Capstone-BE) 
+🔗 [GitHub Repo Backend](https://github.com/khanhnnIT/Capstone-FE) 
 
 ### 📱 Personal Project  
 **VEMS Mobile - Vicompose Education Management System**  
 🔧 Tech stack: `React Native`  
-📄 Description: A mobile version of the VEMS system that provides quick and easy access to academic information for students.
+📄 Description: A mobile version of the VEMS system that provides quick and easy access to academic information for students.  
+🔗 [GitHub Repo](https://github.com/Aquarius2301/VEMS-Mobile)
 
 ---
 
