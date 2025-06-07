@@ -50,4 +50,6 @@
 
 ---
 
-> “Programming is not just about writing code, it's about solving problems.”
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&multiline=true&width=435&lines=%E2%80%9CProgramming+is+not+just+about+writing+code%2C+;it's+about+solving+problems.%E2%80%9D)](https://git.io/typing-svg)
