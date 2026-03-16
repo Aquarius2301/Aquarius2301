@@ -21,6 +21,10 @@
 🔧 Tech stack: `React Native`  
 📄 Description: A mobile version of the VEMS system that provides quick and easy access to academic information for students.  
 
+**My Blog System -  Social Blog Platform**  
+🔧 Tech stack:  `C#`, `React`   
+📄 Description: A small social blog platform where users can create posts, upload images, like, comment, and read Tarot spread 
+
 ---
 
 ## 🧑‍💼 Internship Experience
