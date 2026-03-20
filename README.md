@@ -6,6 +6,7 @@
 📫 Contact: 
   - Email: khangta67@gmail.com
   - Facebook: https://www.facebook.com/ta.minh.khang.232520
+  - Linkedin: www.linkedin.com/in/minh-khang-ta-dev
 
 ---
 
@@ -22,7 +23,7 @@
 📄 Description: A mobile version of the VEMS system that provides quick and easy access to academic information for students.  
 
 **My Blog System -  Social Blog Platform**  
-🔧 Tech stack:  `C#`, `React`   
+🔧 Tech stack:  `C#`, `ReactTS`, `SQLServer`, `JWT`, `Gemini AI`    
 📄 Description: A small social blog platform where users can create posts, upload images, like, comment, and read Tarot spread 
 
 ---
@@ -53,6 +54,9 @@
 - English (Intermediate)
 
 ---
+
+## Certificates
+- [Gemini Certified Educator (2026)](https://edu.google.accredible.com/1afcf919-a84f-4823-8aa42ae21d2fc639#acc.9qYQkxpR)
 
 
 
