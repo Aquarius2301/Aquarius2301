@@ -27,7 +27,7 @@ I'm a fullstack developer building web applications with **C# / ASP.NET Core** o
 
 | Area          | Technologies                                                                                |
 | ------------- | ------------------------------------------------------------------------------------------- |
-| **Languages** | C#, TypeScript, SQL, English (Professional), Vietnamese (Native)                            |
+| **Languages** | English (Professional), Vietnamese (Native)                                                 |
 | **Backend**   | ASP.NET Core, Entity Framework Core, RESTful API, JWT, SQL Server, Clean Architecture, CQRS |
 | **Frontend**  | React (TypeScript), TanStack Query, Ant Design (AntD), Vite                                 |
 | **AI**        | Google Gemini API                                                                           |
@@ -54,6 +54,7 @@ A Jira-like team & project management platform with role-based access control an
 - **Gemini API** for workspace search and automated task management
 - Hardened auth: JWT, HttpOnly cookies, refresh-token rotation, server-side session revocation, rate-limiting
 - Drag-and-drop **Kanban** board with a TanStack Query data layer
+- _Stack:_ .NET 8 · ASP.NET Core · EF Core · MediatR · JWT · React 19 · TanStack Query · Ant Design · Gemini API
 
 ---
 
@@ -61,7 +62,8 @@ A Jira-like team & project management platform with role-based access control an
 
 This profile's repository powers my personal portfolio site — a single-page app built with **React 18 + TypeScript + Vite + Ant Design**, featuring light/dark theming, responsive navigation, and an inline PDF certificate viewer.
 
-> 🔗 **Live demo:** _Deploy your build (e.g. on Render) and drop the URL here._
+> 🔗 **Live demo:** [My portfolio](https://portfolio-fgut.onrender.com/)
+
 > 📦 **Source:** [Aquarius2301/Portfolio](https://github.com/Aquarius2301/Portfolio)
 
 ---
