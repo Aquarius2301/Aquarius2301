@@ -1,63 +1,78 @@
-# 👋 Hi there! I'm Ta Minh Khang
+<h1 align="center">Hi, I'm Ta Minh Khang 👋</h1>
 
-🎓 Student at FPT University - Can Tho Campus  
-💻 Backend: `C# (.NET)` | Frontend: `TypeScript (React)` | Mobile: `React Native`  
-📚 Aspiring to become a professional Full-stack Developer  
-📫 Contact: 
-  - Email: khangta67@gmail.com
-  - Facebook: https://www.facebook.com/ta.minh.khang.232520
-  - Linkedin: www.linkedin.com/in/minh-khang-ta-dev
+<p align="center">
+  <b>Fullstack Developer</b> · C# / ASP.NET Core & React + TypeScript
+</p>
 
----
-
-## 🚀 Featured Projects
-
-### 🎓 Graduation Project  
-**VEMS - Vicompose Education Management System**  
-🔧 Tech stack: `C#`, `React`  
-📄 Description: A comprehensive education management system that helps students and teachers manage study progress, grades, and attendance effectively.  
-
-### 📱 Personal Project  
-**VEMS Mobile - Vicompose Education Management System**  
-🔧 Tech stack: `React Native`  
-📄 Description: A mobile version of the VEMS system that provides quick and easy access to academic information for students.  
-
-**My Blog System -  Social Blog Platform**  
-🔧 Tech stack:  `C#`, `ReactTS`, `SQLServer`, `JWT`, `Gemini AI`    
-📄 Description: A small social blog platform where users can create posts, upload images, like, comment, and read Tarot spread 
+<p align="center">
+  <a href="https://www.linkedin.com/in/minh-khang-ta-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Aquarius2301"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:khangta67@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## 🧑‍💼 Internship Experience
+### 👨‍💻 About Me
 
-**Backend Intern at Act Brain Vietnam**  
-📅 Jan 2024 – Apr 2024  
-🔧 Technologies: PHP (Laravel), TypeScript, React, PHPUnit  
-📄 Description:  
-- Developed backend APIs using Laravel framework  
-- Worked closely with frontend team using React and TypeScript  
-- Maintained and improved existing features to enhance application performance  
+I'm a fullstack developer building web applications with **C# / ASP.NET Core** on the backend and **React + TypeScript** on the frontend. I enjoy designing clean, layered backends (Clean Architecture / CQRS) and crafting responsive, reusable UI components — and I love bringing AI capabilities into real products.
 
----
-
-## 🛠️ Skills
-
-- 👨‍💻 Backend: `C#`, `ASP.NET`, `Entity Framework`, `PHP (Laravel)`
-- 🎨 Frontend: `React`, `TypeScript`, `HTML`, `CSS`
-- 📱 Mobile: `React Native`
-- 🛢️ Database: `SQL Server`
-- 🧰 Tools & Others: Git, RESTful APIs
-
----
-## Languages  
-- Vietnamese (Native)  
-- English (Intermediate)
+- 🎓 B.Eng. in Software Engineering, **FPT University** (GPA 8.5 / 10)
+- 💼 Backend / Frontend Intern at **Act Brain Vietnam**
+- 🏅 **Google Certified Gemini Educator** (2026)
+- 🌱 Currently exploring AI-assisted tooling with the **Gemini API**
 
 ---
 
-## Certificates
-- [Gemini Certified Educator (2026)](https://edu.google.accredible.com/1afcf919-a84f-4823-8aa42ae21d2fc639#acc.9qYQkxpR)
+### 🛠 Tech Stack
 
+| Area          | Technologies                                                                                |
+| ------------- | ------------------------------------------------------------------------------------------- |
+| **Languages** | C#, TypeScript, SQL, English (Professional), Vietnamese (Native)                            |
+| **Backend**   | ASP.NET Core, Entity Framework Core, RESTful API, JWT, SQL Server, Clean Architecture, CQRS |
+| **Frontend**  | React (TypeScript), TanStack Query, Ant Design (AntD), Vite                                 |
+| **AI**        | Google Gemini API                                                                           |
+| **Tools**     | Git, Postman, VS Code, Swagger                                                              |
 
+---
+
+### 🚀 Featured Projects
+
+#### [My Blog](https://github.com/Aquarius2301/MyBlog-System) · 2025 – 2026
+
+A full-stack social blogging platform for multimedia posts, image uploads, and real-time likes/comments.
+
+- Clean, layered **ASP.NET Core** RESTful APIs for scalable backend management
+- Secure auth with **JWT** Access + Refresh Token mechanism
+- **Gemini API**-powered module that interprets Tarot spreads with personalized insights
+- _Stack:_ ASP.NET Core · EF Core · JWT · React · TanStack Query · Gemini API
+
+#### [AI Workspace](https://github.com/Aquarius2301/AI-Workspace) · 2026 – now
+
+A Jira-like team & project management platform with role-based access control and live deployment.
+
+- Built on **.NET 8 (Clean Architecture / CQRS)** + **React 19 (TypeScript)**
+- **Gemini API** for workspace search and automated task management
+- Hardened auth: JWT, HttpOnly cookies, refresh-token rotation, server-side session revocation, rate-limiting
+- Drag-and-drop **Kanban** board with a TanStack Query data layer
+
+---
+
+### 🌟 My Portfolio
+
+This profile's repository powers my personal portfolio site — a single-page app built with **React 18 + TypeScript + Vite + Ant Design**, featuring light/dark theming, responsive navigation, and an inline PDF certificate viewer.
+
+> 🔗 **Live demo:** _Deploy your build (e.g. on Render) and drop the URL here._
+> 📦 **Source:** [Aquarius2301/Portfolio](https://github.com/Aquarius2301/Portfolio)
+
+---
+
+### 📬 Get in Touch
+
+- **Email:** [khangta67@gmail.com](mailto:khangta67@gmail.com)
+- **LinkedIn:** [linkedin.com/in/minh-khang-ta-dev](https://www.linkedin.com/in/minh-khang-ta-dev/)
+- **GitHub:** [@Aquarius2301](https://github.com/Aquarius2301)
+- **CV:** [Download PDF](https://github.com/Aquarius2301/Portfolio/raw/main/public/CV_TaMinhKhang_SoftwareDeveloper.pdf)
+
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&multiline=true&width=435&lines=%E2%80%9CProgramming+is+not+just+about+writing+code%2C+;it's+about+solving+problems.%E2%80%9D)](https://git.io/typing-svg)
