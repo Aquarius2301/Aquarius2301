@@ -19,23 +19,43 @@ I'm a fullstack developer building web applications with **C# / ASP.NET Core** o
 - 🎓 B.Eng. in Software Engineering, **FPT University** (GPA 8.5 / 10)
 - 💼 Backend / Frontend Intern at **Act Brain Vietnam**
 - 🏅 **Google Certified Gemini Educator** (2026)
-- 🌱 Currently exploring AI-assisted tooling with the **Gemini API**
+- 🏅 **Practical AI Training Program - FPT University Can Tho campus** (2026)
 
 ---
 
 ### 🛠 Tech Stack
 
-| Area          | Technologies                                                                                |
-| ------------- | ------------------------------------------------------------------------------------------- |
-| **Languages** | English (Professional), Vietnamese (Native)                                                 |
-| **Backend**   | ASP.NET Core, Entity Framework Core, RESTful API, JWT, SQL Server, Clean Architecture, CQRS |
-| **Frontend**  | React (TypeScript), TanStack Query, Ant Design (AntD), Vite                                 |
-| **AI**        | Google Gemini API                                                                           |
-| **Tools**     | Git, Postman, VS Code, Swagger                                                              |
+| Area          | Technologies                                                                                              |
+| ------------- | --------------------------------------------------------------------------------------------------------- |
+| **Languages** | English (Professional), Vietnamese (Native)                                                               |
+| **Backend**   | ASP.NET Core, Entity Framework Core, RESTful API, JWT, SQL Server, Clean Architecture, CQRS, Google OAuth |
+| **Frontend**  | React (TypeScript), TanStack Query, Ant Design (AntD), Vite, i18n                                         |
+| **AI**        | Google Gemini API                                                                                         |
+| **Tools**     | Git, Postman, VS Code, Swagger                                                                            |
 
 ---
 
 ### 🚀 Featured Projects
+
+#### [My Tarot Reading](https://github.com/Aquarius2301/My-Tarot-Reader) · 2026 – now
+
+An AI-powered tarot reading platform that generates context-aware interpretations and hosts real-time interactive AI chat sessions.
+
+- Architected a full-stack AI tarot reading application using **.NET 8** (Clean Architecture: Domain/Application/Infrastructure/API) and **React 19** (TypeScript) with Vite
+- Implemented secure authentication and session control using **Google OAuth**, **JWT**-based tokens, and **Redis** caching for rate limiting / cooldown management
+- Integrated **Google Gemini API** to generate context-aware tarot interpretations and real-time interactive AI chat sessions
+- Developed rich frontend features using **Ant Design**, **TanStack Query** for server-state caching, **Zustand** for global UI state, and **i18next** for multi-language support (EN/VI)
+- _Stack:_ .NET 8 · Clean Architecture · Google OAuth · JWT · Redis · React 19 · TanStack Query · Ant Design · Zustand · i18next · Gemini API
+
+#### [AI Workspace](https://github.com/Aquarius2301/AI-Workspace) · 2026
+
+A Jira-like team & project management platform with role-based access control and live deployment.
+
+- Built on **.NET 8 (Clean Architecture / CQRS)** + **React 19 (TypeScript)**
+- **Gemini API** for workspace search and automated task management
+- Hardened auth: JWT, HttpOnly cookies, refresh-token rotation, server-side session revocation, rate-limiting
+- Drag-and-drop **Kanban** board with a TanStack Query data layer
+- _Stack:_ .NET 8 · ASP.NET Core · EF Core · MediatR · JWT · React 19 · TanStack Query · Ant Design · Gemini API
 
 #### [My Blog](https://github.com/Aquarius2301/MyBlog-System) · 2025 – 2026
 
@@ -46,23 +66,13 @@ A full-stack social blogging platform for multimedia posts, image uploads, and r
 - **Gemini API**-powered module that interprets Tarot spreads with personalized insights
 - _Stack:_ ASP.NET Core · EF Core · JWT · React · TanStack Query · Gemini API
 
-#### [AI Workspace](https://github.com/Aquarius2301/AI-Workspace) · 2026 – now
-
-A Jira-like team & project management platform with role-based access control and live deployment.
-
-- Built on **.NET 8 (Clean Architecture / CQRS)** + **React 19 (TypeScript)**
-- **Gemini API** for workspace search and automated task management
-- Hardened auth: JWT, HttpOnly cookies, refresh-token rotation, server-side session revocation, rate-limiting
-- Drag-and-drop **Kanban** board with a TanStack Query data layer
-- _Stack:_ .NET 8 · ASP.NET Core · EF Core · MediatR · JWT · React 19 · TanStack Query · Ant Design · Gemini API
-
 ---
 
 ### 🌟 My Portfolio
 
 This profile's repository powers my personal portfolio site — a single-page app built with **React 18 + TypeScript + Vite + Ant Design**, featuring light/dark theming, responsive navigation, and an inline PDF certificate viewer.
 
-> 🔗 **Live demo:** [My portfolio](https://portfolio-fgut.onrender.com/)
+> 🔗 **Live demo:** [My portfolio](https://minh-khang-ta-porfolio.vercel.app)
 
 > 📦 **Source:** [Aquarius2301/Portfolio](https://github.com/Aquarius2301/Portfolio)
 
